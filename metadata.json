@@ -1,0 +1,6 @@
+{
+  "name": "TrustLedger PS-12",
+  "description": "Tamper-evident certificate and donation cryptographic verification platform with instant QR verification and transparent audit logging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
